@@ -1,18 +1,17 @@
 # espn-scraper
 
-## ⚡ About the project 
-This is A Web-Scraping project that takes data from espn cricket [website](https://www.espncricinfo.com/series/ipl-2020-21-1210595) of ipl 2020-2021 and makes excel sheet of different players.
+## 🧐 About the project 
+This is A Web-Scraping project that takes data from espn cricket [website](https://www.espncricinfo.com/series/ipl-2020-21-1210595) of ipl 2020-2021, extracts the details of players, it sorts players according to their team and stores stats of all players in separate excel files named after the player.
 
-Built using cheerio, request, xlsx node package managers alongside with fs and node modules of javascript. This Project extract stats of all the players from all different matches of IPL 2020-2021 cricket league and sorts players according to their team and stores stats of all players in separate excel files named after the player.
+Built using cheerio, request, xlsx node package managers alongside with fs and node modules of javascript. 
 
-This project was made while learning webscraping using node-js for learning purpose.
-
-## ⚡ run following commands before running project
+## ⚡ Run following commands before running project
 - npm init -y
 - npm i request
 - npm i cheerio
 - npm i xlsx
 
 
-### *Note:* 
-As espn website structure is changed due to ipl 2022, this code works perfectly on date : 15/04/2022
+### 📝 *Note:* 
+Espn Website Structure keeps on changing due to various events, this project is running smoothely on 15-04-2022. 
+<br>If this shows any problem we'll have to update the selectors.
