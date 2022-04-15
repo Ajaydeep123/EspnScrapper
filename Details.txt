@@ -1,0 +1,9 @@
+Our target with this project was to understand how webscrapping works
+While working with project we got to learn about:
+
+1. NPM 
+2."request, cheerio, fs, path, xlsx" modules
+3. How callback works?
+4. How to create our own version of API and export it in our programs.
+5. How to filterOut and select the CSS selectors.
+
